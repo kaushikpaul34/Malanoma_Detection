@@ -19,7 +19,7 @@
 - We have used 'Relu' activation function, 'adam' optimizer.
 - Initially there was case of overfitting due to class imbalance.
 - Overfitting and information loss has been tackled using class resemblance and drop out technique.
-- Overall training accuracy after 30 epochs is 95%, validation accuracy is 83%.
+- Overall training accuracy after 30 epochs is 95%, validation accuracy is 88%.
 
 ## Technologies Used
 - Google Collab
